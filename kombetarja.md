@@ -8,8 +8,8 @@ permalink: /kombetarja/
 
 # Shkarkoje tani!
 
-<img src="../images/ios.png" alt="iOS" style="width: 250px;"/>
-<img src="../images/android.png" alt="Android" style="width: 250px;"/>
+<a href="https://play.google.com/store/apps/details?id=loja.pare.neshqip"><img src="../images/android.png" alt="Android" style="width: 250px;"/></a>
+<a href="https://itunes.apple.com/us/app/kombetarja-shqipetare-trajnim/id1146325328"><img src="../images/ios.png" alt="iOS" style="width: 250px;"/></a>
 
 
 <img src="../images/menu1.png" alt="Menu1" style="width: 360px;"/>
